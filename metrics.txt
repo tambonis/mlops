@@ -1,0 +1,2 @@
+variancia_treino: 74.3%
+variaancia_teste: 69.8%
